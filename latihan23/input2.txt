@@ -1,0 +1,2 @@
+Nama,saya,Firgan
+Nama,kamu,siapa?
